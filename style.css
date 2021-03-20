@@ -26,7 +26,7 @@ Group01{display: flex;
 }
 p {
   font-family: bahnschrift;
-  font-size: 50px;
+  font-size: 20px;
   text-align: center;
 }
 Glitch{
@@ -39,6 +39,6 @@ Size{
 }
 h1 {
   font-family: bahnschrift;
-  font-size: 20px;
+  font-size: 50px;
   text-align: center;
 }
