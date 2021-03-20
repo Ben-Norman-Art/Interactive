@@ -25,7 +25,7 @@ Group01{display: flex;
     justify-content: center;
 }
 p {
-  text-align: center;
+  margin: auto;
 }
 Glitch{
     width: 1280px;
