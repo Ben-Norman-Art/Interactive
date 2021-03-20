@@ -25,9 +25,9 @@ Group01{display: flex;
     justify-content: center;
 }
 p {
-  margin: auto;
   font-family: bahnschrift;
   font-size: 20px;
+  text-align: center;
 }
 Glitch{
     width: 1280px;
