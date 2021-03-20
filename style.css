@@ -5,6 +5,7 @@ html, body {
 canvas {
   display: block;
 }
+
 Work{font-size:50px;
       font-family:bahnschrift;
 }
@@ -26,6 +27,7 @@ Group01{display: flex;
 p {
   font-family: bahnschrift;
   font-size: 20px;
+  text-align: center;
 }
 Glitch{
     width: 1280px;
@@ -38,6 +40,5 @@ Size{
 h1 {
   font-family: bahnschrift;
   font-size: 20px;
-  color: black;
   text-align: center;
 }
