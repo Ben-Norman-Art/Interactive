@@ -3,7 +3,9 @@ html, body {
   padding: 0;
 }
 canvas {
+  margin: auto;
   display: block;
+  padding: 20px;
 }
 
 Work{font-size:50px;
@@ -41,9 +43,4 @@ h1 {
   font-family: bahnschrift;
   font-size: 50px;
   text-align: center;
-}
-canvas {
-  margin: auto;
-  display: block;
-  padding: 20px;
 }
